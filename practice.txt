@@ -1,2 +1,1 @@
 echo "Line 1: This is good code."
-echo "Line 2: This is a MISTAKE."
